@@ -212,6 +212,13 @@
 
   
   <url>
+    <loc>https://lazy-boy-acmer.cn/categories/codeforces/</loc>
+    <lastmod>2024-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lazy-boy-acmer.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2024-08-07</lastmod>
     <changefreq>weekly</changefreq>
