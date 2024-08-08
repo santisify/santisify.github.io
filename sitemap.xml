@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://lazy-boy-acmer.cn/posts/jly-algorithm-template.html</loc>
-    
-    <lastmod>2024-08-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://lazy-boy-acmer.cn/posts/cfhello2024.html</loc>
     
     <lastmod>2024-08-08</lastmod>
@@ -83,6 +74,15 @@
   </url>
   
   <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfround912d2.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lazy-boy-acmer.cn/posts/cfround916d3.html</loc>
     
     <lastmod>2024-08-08</lastmod>
@@ -110,9 +110,9 @@
   </url>
   
   <url>
-    <loc>https://lazy-boy-acmer.cn/posts/cfround912d2.html</loc>
+    <loc>https://lazy-boy-acmer.cn/posts/jly-algorithm-template.html</loc>
     
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
