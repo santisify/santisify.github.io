@@ -2,9 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lazy-boy-acmer.cn/posts/a842e41b.html</loc>
+    <loc>https://lazy-boy-acmer.cn/posts/cfhello2024.html</loc>
     
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfgoodbye2023.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfedu168d2.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfedu161d2.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfedu160d2.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfedu159d2.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfround922d2.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfround916d3.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfround914d2.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/posts/cfround913d3.html</loc>
+    
+    <lastmod>2024-08-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -175,7 +256,7 @@
 
   <url>
     <loc>https://lazy-boy-acmer.cn/</loc>
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -183,28 +264,28 @@
   
   <url>
     <loc>https://lazy-boy-acmer.cn/tags/%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lazy-boy-acmer.cn/tags/codeforces/</loc>
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lazy-boy-acmer.cn/tags/Markdown/</loc>
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lazy-boy-acmer.cn/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -213,14 +294,14 @@
   
   <url>
     <loc>https://lazy-boy-acmer.cn/categories/codeforces/</loc>
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lazy-boy-acmer.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
