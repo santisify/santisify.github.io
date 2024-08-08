@@ -6,7 +6,7 @@
   <link href="https://lazy-boy-acmer.cn/atom.xml" rel="self"/>
   
   <link href="https://lazy-boy-acmer.cn/"/>
-  <updated>2024-08-08T15:46:54.468Z</updated>
+  <updated>2024-08-08T15:52:44.581Z</updated>
   <id>https://lazy-boy-acmer.cn/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>jiangly算法模板收集</title>
+    <link href="https://lazy-boy-acmer.cn/posts/b469c355.html"/>
+    <id>https://lazy-boy-acmer.cn/posts/b469c355.html</id>
+    <published>2024-08-08T15:52:44.000Z</published>
+    <updated>2024-08-08T15:52:44.581Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello2024</title>
@@ -340,8 +353,8 @@
   
   <entry>
     <title>Markdown语法与外挂标签写法汇总</title>
-    <link href="https://lazy-boy-acmer.cn/posts/2013454d.html"/>
-    <id>https://lazy-boy-acmer.cn/posts/2013454d.html</id>
+    <link href="https://lazy-boy-acmer.cn/posts/testmdedit.html"/>
+    <id>https://lazy-boy-acmer.cn/posts/testmdedit.html</id>
     <published>2024-08-06T16:00:00.000Z</published>
     <updated>2024-08-06T16:00:00.000Z</updated>
     
