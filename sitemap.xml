@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lazy-boy-acmer.cn/posts/b469c355.html</loc>
+    <loc>https://lazy-boy-acmer.cn/posts/jly-algorithm-template.html</loc>
     
     <lastmod>2024-08-08</lastmod>
     
@@ -299,6 +299,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://lazy-boy-acmer.cn/tags/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -310,6 +317,20 @@
   
   <url>
     <loc>https://lazy-boy-acmer.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/categories/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/</loc>
+    <lastmod>2024-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lazy-boy-acmer.cn/categories/%E7%AE%97%E6%B3%95%E6%A8%A1%E6%9D%BF/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2024-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
